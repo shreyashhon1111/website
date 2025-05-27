@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+}
+
+#body-header{
+    height: 50px;
+    opacity: 0.8;
+    background-image: url(image/car.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+    
